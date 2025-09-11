@@ -21,14 +21,5 @@
 
 </p>
 
----
 
-## 🎵
-
-<p align="center">
-  <a href="assets/My4Vd.gif">
-    <img src="assets/My4Vd.gif" alt="Демо проекта" width="800">
-  </a>
-</p>
-<p align="center">🎵 My Favorite Song</p>
 
