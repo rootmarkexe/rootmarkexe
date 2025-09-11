@@ -19,10 +19,6 @@
 
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
 
-
-  <img src="https://img.shields.io/github/stars/rootmarkexe?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/forks/rootmarkexe?style=for-the-badge" alt="Forks">
-  <img src="https://img.shields.io/github/issues/rootmarkexe?style=for-the-badge" alt="Issues">
 </p>
 
 ---
