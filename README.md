@@ -21,5 +21,5 @@
 
 </p>
 
-trust in the process
+trust in the process - road to the FAANG
 
