@@ -21,6 +21,4 @@
   </a>
 </div>
 
-
-trust in the process - road to the FAANG
 </div>
