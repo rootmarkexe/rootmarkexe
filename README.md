@@ -19,7 +19,7 @@
 
 
 <a href="https://rootmarkexe.github.io/Mkrtchyan-Mark/">
-    <img src="https://raw.githubusercontent.com/rootmarkexe/Mkrtchyan-Mark/main/site.png" alt="profile" width="200" />
+    <img src="https://raw.githubusercontent.com/rootmarkexe/Mkrtchyan-Mark/main/site.svg" alt="profile" width="200" />
 </a>
 
 trust in the process - road to the FAANG
