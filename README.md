@@ -5,6 +5,7 @@
 
 <p align="center">
 
+  <p>･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.</p>
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&style=for-the-badge" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&style=for-the-badge" alt="Java">
 
