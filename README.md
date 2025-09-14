@@ -3,7 +3,7 @@
   <img src="assets/My4Vd.gif" alt="Демо проекта" width="800">
 </p>
 
-<p align="center">
+<p align="center" display = "flex">
 
   <p>･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.</p>
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&style=for-the-badge" alt="Kali Linux">
