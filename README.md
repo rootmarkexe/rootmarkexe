@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <span>･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･</span>
+  <span style="white-space: nowrap; margin-top: -5px;">･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･</span>
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&style=for-the-badge" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&style=for-the-badge" alt="Java">
   <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" alt="Build Status">
