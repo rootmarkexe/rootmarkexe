@@ -5,10 +5,6 @@
 
 
 
-<div align="center">
-  <img src="assets/My4Vd.gif" alt="Демо проекта" width="800" style="display: block; margin: 0 auto;">
-</div>
-
 <div align="center" style="margin-top: 20px;">
   <a href="https://rootmarkexe.github.io/Mkrtchyan-Mark/">
     <img src="https://raw.githubusercontent.com/rootmarkexe/Mkrtchyan-Mark/main/Dribbble shot HD - 1.png" 
