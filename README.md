@@ -3,14 +3,7 @@
   <img src="assets/My4Vd.gif" alt="Демо проекта" width="800">
 </p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <span style="white-space: nowrap; margin-top: -40px;">･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･</span>
-  <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?logo=linux&style=for-the-badge" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&style=for-the-badge" alt="Java">
-  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge" alt="Build Status">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
-  <span>･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･ﾟﾟ･.･</span>
-</p>
+
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://rootmarkexe.github.io/Mkrtchyan-Mark/">
